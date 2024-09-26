@@ -1,0 +1,52 @@
+{
+  "uuid": "cfcd4adf-d638-4711-b9b4-86f6c6f1acf7",
+  "historyId": "0453b2301dd4ad85ae3f36d43c88c03a",
+  "testCaseId": "fcf14874b1e6a5ed24a3999ec721e92a",
+  "fullName": "NUnitSeleniumC#Training:NUnitSeleniumC_Training.NUNITTests.Description.testcase1()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "AUTOCTPPBLMRAHH"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "NUnit 3"
+    },
+    {
+      "name": "package",
+      "value": "NUnitSeleniumC_Training.NUNITTests"
+    },
+    {
+      "name": "testMethod",
+      "value": "testcase1"
+    },
+    {
+      "name": "testClass",
+      "value": "Description"
+    }
+  ],
+  "links": [],
+  "name": "testcase1",
+  "status": "passed",
+  "stage": "finished",
+  "description": "Testcase provides Valid functionality\n",
+  "steps": [],
+  "attachments": [
+    {
+      "name": "Console Output",
+      "source": "291cfe9e-b041-4b9b-8d48-1e0ec098917b-attachment.txt",
+      "type": "text/plain"
+    }
+  ],
+  "parameters": [],
+  "start": 1726488276189,
+  "stop": 1726488276189
+}

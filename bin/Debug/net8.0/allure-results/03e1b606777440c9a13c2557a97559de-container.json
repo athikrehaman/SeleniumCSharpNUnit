@@ -1,0 +1,12 @@
+{
+  "uuid": "f898ede1-fafe-490b-a33f-92c82f0d5ab5",
+  "name": "NUnitSeleniumC_Training.NUNITTests.FactorialTest.FactTest",
+  "children": [
+    "c7f5cf9a-ef82-4ce6-b7f9-f20ca38d8456"
+  ],
+  "befores": [],
+  "afters": [],
+  "links": [],
+  "start": 1726486129550,
+  "stop": 1726486129552
+}
