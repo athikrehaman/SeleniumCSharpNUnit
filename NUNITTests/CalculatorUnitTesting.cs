@@ -22,10 +22,12 @@ namespace NUnitSeleniumC_Training.NUNITTests
         {
             int result = cl.Add(2,3);
             int result1 = cl.Add(3, -4);
+            int result2 = cl.Add(4, 5);
 
             //Assertion NUnit to compare the results with actual result
             Assert.AreEqual(5, result);
             Assert.AreEqual(-1, result1);
+            Assert.AreEqual(9, result2);
         }
 
         [TearDown]
